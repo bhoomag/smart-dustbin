@@ -1,0 +1,14 @@
+function openDustbin() {
+    const lid = document.getElementById("lid");
+    const status = document.getElementById("status");
+
+    // Open lid
+    lid.style.transform = "rotate(-60deg)";
+    status.innerText = "Status: Object detected - Lid opened";
+
+    // Close lid after 2 seconds
+    setTimeout(() => {
+        lid.style.transform = "rotate(0deg)";
+        status.innerText = "Status: Lid closed";
+    }, 2000);
+}
